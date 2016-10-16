@@ -1,5 +1,5 @@
 package lab1;
-//小测试文件1
+//测试文件1
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
