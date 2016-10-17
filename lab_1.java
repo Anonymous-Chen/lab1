@@ -2,6 +2,8 @@
 package lab1;b1
 //为最后提交正式版的文件
 c4
+b1
+b2
 import java.util.Scanner; //输入
 import java.util.regex.Matcher; //匹配
 import java.util.regex.Pattern; //模式

@@ -1,6 +1,9 @@
 package lab1;
 
+
 //²âÊÔÎÄ¼ş2 b1 c4
+
+ b2
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
