@@ -1,5 +1,6 @@
 package lab1;b1
 //为实验未编写函数时的测试文件,不保证能运行
+c4
 import java.util.Scanner; //输入
 import java.util.regex.Matcher; //匹配
 import java.util.regex.Pattern; //模式
