@@ -1,4 +1,4 @@
-package lab1;
+package lab1;b1
 //²âÊÔÎÄ¼ş1
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
