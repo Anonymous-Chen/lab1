@@ -1,5 +1,5 @@
 
-package lab1;
+package lab1;km
 //为最后提交正式版的文件
 import java.util.Scanner; //输入
 import java.util.regex.Matcher; //匹配
