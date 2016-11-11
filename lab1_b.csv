@@ -1,0 +1,11 @@
+"public static String[][] expression1(String strs1[][], String line)",,,,,,,
+//输入为一个空字符串数组和“！simplify”命令。,,,,,,,
+//输出为“！simplify”命令中变量及其对应的值,,,,,,,
+,,,,,,,
+,,,,,,,
+输入数据,,期望输出,strs1[26][0],strs1[0][0],strs1[0][1],strs1[1][0],strs1[1][1]
+! simplify,,,0,,,,
+sdsadq,,,NO MATCH,,,,
+! simplify x=1 y=2,,,2,x,1,y,2
+! simplify x=1 yy=2,,,NO MATCH,,,,
+! simplify x=1 y =2,,,NO MATCH,,,,
